@@ -11,11 +11,11 @@ package test.abilities.hearthstone;
  * @author bashi.aquino
  */
 
-import player.PlayerHero;
-import cards.Romulo;
-import cards.Fireball;
-import cards.TimberWolf;
-import cards.DireWolfAlpha;
+import playerassets.PlayerHero;
+import cards.hearthstone.Romulo;
+import cards.hearthstone.Fireball;
+import cards.hearthstone.TimberWolf;
+import cards.hearthstone.DireWolfAlpha;
 import junit.framework.TestCase;
 public class FireballTest extends TestCase{
 

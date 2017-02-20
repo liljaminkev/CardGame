@@ -1,10 +1,10 @@
 package test.strategyassets;
 
 import game.Move;
-import player.Hand;
-import player.BattleField;
-import cards.Romulo;
-import cards.DireWolfAlpha;
+import playerassets.Hand;
+import playerassets.BattleField;
+import cards.hearthstone.Romulo;
+import cards.hearthstone.DireWolfAlpha;
 import junit.framework.TestCase;
 public class MoveTest extends TestCase
 {

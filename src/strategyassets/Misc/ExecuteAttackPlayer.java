@@ -1,5 +1,8 @@
 package strategyassets.Misc;
 
+import moveassets.Move;
+import strategyassets.Command;
+
 public class ExecuteAttackPlayer implements Command {
   Move atkMove;
   

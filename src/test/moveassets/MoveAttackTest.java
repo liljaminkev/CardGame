@@ -3,12 +3,12 @@ package test.moveassets;
 
 
 import game.Move;
-import player.Player;
-import player.Hand;
-import player.BattleField;
-import player.PlayerHero;
-import cards.Romulo;
-import cards.DireWolfAlpha;
+import playerassets.Player;
+import playerassets.Hand;
+import playerassets.BattleField;
+import playerassets.PlayerHero;
+import cards.hearthstone.Romulo;
+import cards.hearthstone.DireWolfAlpha;
 import junit.framework.TestCase;
 public class MoveAttackTest extends TestCase
 {

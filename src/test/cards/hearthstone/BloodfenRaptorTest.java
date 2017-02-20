@@ -6,7 +6,7 @@ package test.cards.hearthstone;
  * and open the template in the editor.
  */
 
-import cards.BloodfenRaptor;
+import cards.hearthstone.BloodfenRaptor;
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;

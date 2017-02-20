@@ -3,6 +3,10 @@ package test.moveassets;
 import hero.Hero;
 import hero.hearthstone.Jaina;
 import junit.framework.TestCase;
+import moveassets.Move;
+import playerassets.Deck;
+import playerassets.Hand;
+import playerassets.Player;
 
 public class MovePlaceCardTest extends TestCase{
     Move movePlaceCard;

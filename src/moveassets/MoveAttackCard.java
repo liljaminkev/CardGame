@@ -1,4 +1,7 @@
 package moveassets;
+
+import playerassets.BattleField;
+
 public class MoveAttackCard extends Move{
 
   public MoveAttackCard(int fieldIndexA, int fieldIndexB, BattleField fieldA, BattleField fieldB)

@@ -6,7 +6,7 @@ package test.cards.hearthstone;
  * and open the template in the editor.
  */
 
-import cards.BluegillWarrior;
+import cards.hearthstone.BluegillWarrior;
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;

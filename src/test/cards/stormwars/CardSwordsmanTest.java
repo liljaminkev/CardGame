@@ -1,6 +1,6 @@
 //tests elite card
 package test.cards.stormwars;
-import card.CardSwordsman;
+import cards.stormwars.CardSwordsman;
 import junit.framework.TestCase;
 public class CardSwordsmanTest extends TestCase
 {

@@ -1,6 +1,8 @@
 package test.moveassets;
 import moveassets.Move;
 import junit.framework.TestCase;
+import playerassets.BattleField;
+import playerassets.Hand;
 public class MoveTest extends TestCase
 {
     BattleField battleField;

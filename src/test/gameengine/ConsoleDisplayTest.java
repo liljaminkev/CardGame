@@ -1,4 +1,6 @@
 package test.gameengine;
+import cards.hearthstone.BloodfenRaptor;
+import cards.hearthstone.Romulo;
 import gameengine.ConsoleDisplay;
 import junit.framework.TestCase;
 public class ConsoleDisplayTest extends TestCase{
