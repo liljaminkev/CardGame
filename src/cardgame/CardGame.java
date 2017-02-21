@@ -7,7 +7,7 @@ package cardgame;
 
 /**
  *
- * @author Kevin
+ * @author Kevin chan
  */
 public class CardGame {
 
